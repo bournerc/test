@@ -1,0 +1,11 @@
+rclone version:
+rclone v1.58.0-beta.5919.4e2ca3330
+- os/version: debian 10.10 (64 bit)
+- os/kernel: 5.10.68+ (x86_64)
+- os/type: linux
+- os/arch: amd64
+- go/version: go1.17.5
+- go/linking: dynamic
+- go/tags: none
+
+I compiled it from https://github.com/rclone/rclone (not modified).
